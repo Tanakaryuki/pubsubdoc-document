@@ -1,2 +1,2 @@
 # pubsubdoc-document
-https://github.com/nrslib/pubsubdocの環境構築資料
+https://github.com/nrslib/pubsubdoc の環境構築資料
