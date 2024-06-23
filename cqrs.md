@@ -14,7 +14,6 @@
 
 この資料では、GMO インターネットの成瀬さんによる CQRS ハンズオンの開発環境を構築するための手順を説明します。当日までに以下の手順に従って環境を整えてください。  
 今回の CQRS ハンズオンでは、Java を使用して開発します。
-![rns](https://github.com/Tanakaryuki/pubsubdoc-document/assets/46374705/3827c4de-1044-428e-b8de-a8fc83f84b8c)
 
 ## 2. バージョン一覧
 
